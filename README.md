@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Databricks-BR/lab_outubro_2025/refs/heads/main/img/handson_lab_outubro.png">
+<img src="https://raw.githubusercontent.com/Databricks-BR/lab_outubro_2025/refs/heads/main/Includes/images/handson_lab_outubro.png">
 
 # Hands-On LABs
 
