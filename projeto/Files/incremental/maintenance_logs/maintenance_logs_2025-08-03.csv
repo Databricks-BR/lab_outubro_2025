@@ -1,0 +1,4 @@
+maintenance_id,bike_id,reported_time,resolved_time,issue_description
+d8d31b04-e2c2-4028-9561-7b13729b1aad,9131d2c5-90d6-48f6-a081-84d56ba1fc90,2025-08-03 07:15:26,2025-08-05,"The chain on my rental bike keeps slipping off the gears, making it hard to pedal. I've tried adjusting it, but it doesn't seem to be staying in place. I'd appreciate it if someone could take a look and fix the issue so I can continue my ride."
+56feb2f5-efa3-487e-8836-f089389dc67b,88362d61-8dcf-4282-b7b5-afdb1069772f,2025-08-03 07:00:32,2025-08-04,"The tires on my rental bike are low on air and one of them has a slow leak, making it difficult to ride. I've only had the bike for an hour and I'm already having to stop frequently to add air. I'd appreciate it if someone could take a look at it and fix the issue as soon as possible."
+e67e18ab-bd54-4ef3-ac28-1c59963b02b7,966d3c26-74d9-4031-b5ba-e77958ff9f51,2025-08-03 12:48:45,2025-08-07,

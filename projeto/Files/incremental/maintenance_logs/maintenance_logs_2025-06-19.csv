@@ -1,0 +1,4 @@
+maintenance_id,bike_id,reported_time,resolved_time,issue_description
+ece10f3c-e163-4b95-a552-2d6a3679fb16,26354a04-099a-423a-9b26-5c91ad1e3525,2025-06-19 18:30:59,2025-06-22,"The brakes on my rental bike are not working properly, it's taking a lot of effort to slow down and stop. I'm having to squeeze the brake levers really hard to get any response, which is kinda scary. I'd appreciate it if someone could take a look and fix the issue ASAP."
+d57f3268-67a4-4501-93ba-703d14972ea5,1dbe235a-8f31-4169-971f-8fd7ef97a218,2025-06-19 16:17:37,2025-06-24,Broken
+a3a6c308-e7de-4ff5-94e0-e82e83a133e4,41d0804c-4ad1-48a4-98ca-8c86c6534060,2025-06-19 04:37:00,2025-06-20,"The seat on my rental bike is loose and keeps sliding back and forth, making it hard to ride. I've tried to tighten it, but it doesn't seem to be staying in place. Can I get a replacement or have this one fixed ASAP?"

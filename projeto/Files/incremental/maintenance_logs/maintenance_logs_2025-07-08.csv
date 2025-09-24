@@ -1,0 +1,4 @@
+maintenance_id,bike_id,reported_time,resolved_time,issue_description
+8082402c-ccd3-4973-8572-93485244be9e,794095e2-ace7-4652-b548-34bc8e668b95,2025-07-08 05:43:30,2025-07-09,"The chain on my rental bike keeps slipping off the gears, making it hard to pedal. I've tried adjusting it, but it doesn't seem to be staying in place. I'd appreciate it if someone could take a look and fix the issue so I can continue my ride."
+fad2009b-4ebb-4f63-a330-4599b1839c73,4b5ea3dd-1436-4284-abfc-a7f3c69ed514,2025-07-08 10:03:42,2025-07-11,Broken
+f9d253c2-a707-4757-a297-3c406d5d65a0,d6ce88de-42ee-47e9-a3a3-f9de4700745a,2025-07-08 10:48:51,2025-07-10,"The handlebars on my rental bike are loose and keep shifting while I'm riding, it's pretty annoying. I've tried to tighten them but it doesn't seem to be making a difference. I'd appreciate it if someone could take a look and fix the issue so I can finish my ride safely."

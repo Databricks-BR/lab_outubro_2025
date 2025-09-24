@@ -1,0 +1,5 @@
+maintenance_id,bike_id,reported_time,resolved_time,issue_description
+d4d0fa92-6213-465d-8aa0-1e04ada0ecc9,26354a04-099a-423a-9b26-5c91ad1e3525,2025-06-23 04:54:46,2025-06-27,
+9ad9ece2-c030-4107-a1cb-d8841a1416aa,1f1514c4-e48a-47c1-bfd3-b2bfec408657,2025-06-23 22:27:08,2025-06-24,
+5253a18d-8220-4559-9e1e-1ae4b504da26,89c4b909-1958-4cee-a167-e845060a844b,2025-06-23 18:10:32,2025-06-27,"The safety reflectors on my rental bike are loose and not securely attached, which is a safety concern. I noticed the issue as soon as I started riding and I'm worried it could cause problems, especially at night. I'd appreciate it if someone could take a look and fix the reflectors as soon as possible."
+d28a5d82-92bb-4f00-855f-3b7dc73296cb,16d712cc-12a5-4c5f-9e35-a0ddc71f7938,2025-06-23 19:42:20,2025-06-24,"The seat on my rental bike is loose and keeps sliding back and forth, making it hard to ride. I've tried to tighten it, but it doesn't seem to be staying in place. Can I get a replacement or have this one fixed ASAP?"
