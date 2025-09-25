@@ -2,7 +2,7 @@
 -- MAGIC %md
 -- MAGIC
 -- MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
--- MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning">
+-- MAGIC   <img src="https://raw.githubusercontent.com/Databricks-BR/lab_outubro_2025/refs/heads/main/Includes/images/handson_lab_outubro.png" alt="Databricks Learning">
 -- MAGIC </div>
 -- MAGIC
 
