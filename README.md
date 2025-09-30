@@ -10,28 +10,28 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de En
 
 | # | Tópicos | Duração |
 | -- | -- | -- |
-| 01 |                                    | 30 min |
-| 02 |                          | 30 min |
-| 03 |                              | 20 min |
-| 04 |                                            | 30 min |
-| 05 |                                     | 30 min |
-| 06 |                                     | 30 min |
-| 07 |                                                                          | 20 min |
+| 01 | Visão geral do Workshop                      | 10 min |
+| 02 | LAB 01 - Carregando os Dados                 | 10 min |
+| 03 | DEMO - Conectando dados com Lakeflow Connect | 30 min |
+| 04 | LAB 02 - Lakeflow Declarative Pipelines      | 30 min |
+| 05 | LAB 03 - Lakeflow Jobs                       | 30 min |
 
 
 </br>
 
 ## Referências Adicionais
 
+* [Demonstração de Conector Gerenciado LakeFlow Connect](https://app.getreprise.com/launch/BXZY58n/) - Demonstração simples;
 
-* [Dashboards AI/BI - Hot Site](https://www.databricks.com/br/product/ai-bi)
+* [Databricks Lakeflow Connect para Relatórios Workday: Conecte, Ingerira e Analise Dados Workday Sem Complexidade](https://www.databricks.com/resources/demos/tours/appdev/lakeflow-workday-connect?itm_data=demo_center);
 
-</br></br>
+* [Databricks Lakeflow Connect para Salesforce: Potencializando Vendas Inteligentes com IA e Analytics](https://www.databricks.com/resources/demos/tours/platform/discover-databricks-lakeflow-connect-demo?itm_data=demo_center);
 
-## Fontes de Dados
+* [Documentação do Lakeflow Declarative Pipelines](https://docs.databricks.com/aws/pt/dlt/);
 
+* [Documentação do Lakeflow Jobs](https://docs.databricks.com/aws/en/jobs/);
 
-* 
+* [Dashboards AI/BI - Hot Site](https://www.databricks.com/br/product/ai-bi).
 
 </br></br>
 
